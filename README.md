@@ -67,7 +67,7 @@
 <br>
 - 👨‍💻 **FrontEnd Developer**\
 📆 2021 - Moment\
-📍 **Freeline Informática** - Joinville/SC, Brazil<br>
+📍 **Objetiva.digital ** - Joinville/SC, Brazil<br>
 
 <img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
