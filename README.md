@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/antoniofavarinfreire/">
-    <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=antoniofavarinfreire&show_icons=true&count_private=true&theme=blue-green" />
+    <img height ="160em" src="https://github-readme-stats.vercel.app/api?username=antoniofavarinfreire&show_icons=true&count_private=true&theme=blue-green" />
     <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofavarinfreire&hide=TeX&layout=compact&theme=blue-green" />
   </a>
 </div>
